@@ -1,0 +1,11 @@
+Risk ID,Asset,Threat,Inherent Likelihood,Inherent Impact,Inherent Score,Inherent Rating,Existing Controls,Residual Likelihood,Residual Impact,Residual Score,Residual Rating,Treatment,Owner,Status
+R-001,Customer Database,Data Breach,4,5,20,Critical,"A.5.9; A.5.15; A.5.18; A.8.3; A.8.10; A.8.11; A.8.12",2,4,8,Medium,Mitigate,Data Protection Owner,Open
+R-002,Production Web Application,SQL Injection,4,5,20,Critical,"A.5.8; A.8.8; A.8.25; A.8.26; A.8.28; A.8.29",2,4,8,Medium,Mitigate,Application Owner,Open
+R-003,Employee Accounts,Account Compromise,4,4,16,Critical,"A.5.15; A.5.16; A.5.17; A.5.18; A.8.5",2,3,6,Medium,Mitigate,IT Manager,Open
+R-004,Cloud Storage,Unauthorized Exposure,3,5,15,High,"A.5.19; A.5.20; A.5.21; A.5.23; A.8.9",2,4,8,Medium,Mitigate,Cloud Owner,Open
+R-005,Backup Storage,Ransomware,3,5,15,High,"A.5.29; A.5.30; A.8.13; A.8.14",2,4,8,Medium,Mitigate,IT Manager,Open
+R-006,Source Code Repository,Unauthorized Code Access,3,4,12,High,"A.5.9; A.5.15; A.5.18; A.8.2; A.8.4",2,3,6,Medium,Mitigate,Engineering Manager,Open
+R-007,Security Logs,Log Tampering,3,4,12,High,"A.5.7; A.5.24; A.5.25; A.5.28; A.8.15; A.8.16",2,3,6,Medium,Mitigate,SOC Owner,Open
+R-008,Employee Endpoints,Malware,3,4,12,High,"A.6.3; A.6.7; A.8.1; A.8.7; A.8.19",2,3,6,Medium,Mitigate,IT Manager,Open
+R-009,API Platform,API Abuse,3,5,15,High,"A.5.14; A.5.15; A.8.20; A.8.21; A.8.22; A.8.25; A.8.26",2,4,8,Medium,Mitigate,Application Owner,Open
+R-010,Identity Platform,Credential Theft,4,5,20,Critical,"A.5.16; A.5.17; A.6.3; A.6.8; A.8.5",2,4,8,Medium,Mitigate,IT Manager,Open
