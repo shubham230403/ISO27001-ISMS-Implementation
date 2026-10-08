@@ -1,0 +1,11 @@
+﻿Asset ID,Asset Name,Owner,Classification,Location
+A-001,Customer Database,Data Protection Owner,Confidential,Cloud
+A-002,Production Web Application,Application Owner,Confidential,Cloud
+A-003,API Platform,Application Owner,Confidential,Cloud
+A-004,Source Code Repository,Engineering Manager,Confidential,Cloud
+A-005,Employee Endpoints,IT Manager,Internal,Corporate Network
+A-006,Backup Storage,IT Manager,Confidential,Cloud
+A-007,Security Logs,SOC Owner,Confidential,SIEM
+A-008,Identity Platform,IT Manager,Confidential,Cloud
+A-009,Cloud Infrastructure,Cloud Owner,Confidential,Cloud
+A-010,Employee Information,HR Manager,Confidential,Corporate Systems

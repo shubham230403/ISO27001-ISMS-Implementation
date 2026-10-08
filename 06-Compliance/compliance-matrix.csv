@@ -1,0 +1,15 @@
+﻿ISO Area,Requirement,Project Evidence,Status
+Clause 4,Context of organization,organization-context.md,Implemented
+Clause 4,Interested parties,interested-parties.md,Implemented
+Clause 4,ISMS scope,isms-scope.md,Implemented
+Clause 5,Information security policy,information-security-policy.md,Implemented
+Clause 6,Risk assessment,risk-register.csv,Implemented
+Clause 6,Risk treatment,risk-treatment-plan.md,Implemented
+Clause 7,Awareness,Awareness Process,Partial
+Clause 7,Documented information,Repository Documentation,Implemented
+Clause 8,Operational risk treatment,Risk Treatment Plan,Implemented
+Clause 9,Monitoring,Logging and Metrics,Partial
+Clause 9,Internal audit,internal-audit-plan.md,Implemented
+Clause 9,Management review,management-review.md,Partial
+Clause 10,Corrective action,capa-register.csv,Implemented
+Clause 10,Continual improvement,CAPA and Management Review,Partial

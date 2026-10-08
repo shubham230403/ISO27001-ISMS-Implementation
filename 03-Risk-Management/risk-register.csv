@@ -1,0 +1,11 @@
+﻿Risk ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk Score,Risk Rating,Treatment,Risk Owner
+R-001,Customer Database,Data Breach,Excessive Database Privileges,4,5,20,Critical,Mitigate,Data Protection Owner
+R-002,Production Web Application,SQL Injection,Insufficient Input Validation,4,5,20,Critical,Mitigate,Application Owner
+R-003,Employee Accounts,Account Compromise,Weak Authentication,4,4,16,Critical,Mitigate,IT Manager
+R-004,Cloud Storage,Data Exposure,Incorrect Access Configuration,3,5,15,High,Mitigate,Cloud Owner
+R-005,Backup Storage,Ransomware,Insufficient Backup Isolation,3,5,15,High,Mitigate,IT Manager
+R-006,Source Code Repository,Unauthorized Access,Excessive Permissions,3,4,12,High,Mitigate,Engineering Manager
+R-007,Security Logs,Log Tampering,Insufficient Monitoring,3,4,12,High,Mitigate,SOC Owner
+R-008,Employee Endpoints,Malware,Insufficient Endpoint Protection,3,4,12,High,Mitigate,IT Manager
+R-009,API Platform,API Abuse,Weak Authentication,3,5,15,High,Mitigate,Application Owner
+R-010,Identity Platform,Credential Theft,Phishing and Credential Reuse,4,5,20,Critical,Mitigate,IT Manager

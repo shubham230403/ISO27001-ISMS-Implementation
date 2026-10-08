@@ -1,0 +1,13 @@
+﻿ID,Audit Area,Question,Evidence,Status
+AUD-001,ISMS Context,Is scope documented?,ISMS Scope,Pass
+AUD-002,Interested Parties,Are interested parties identified?,Interested Parties Register,Pass
+AUD-003,Risk Management,Are risks identified?,Risk Register,Pass
+AUD-004,Risk Treatment,Are treatment owners assigned?,Risk Treatment Plan,Pass
+AUD-005,Access Control,Are access reviews performed?,Access Review Records,Partial
+AUD-006,Vulnerability Management,Are vulnerabilities tracked?,Vulnerability Register,Partial
+AUD-007,Logging,Are security logs monitored?,SIEM Evidence,Partial
+AUD-008,Incident Management,Are incidents documented?,Incident Records,Partial
+AUD-009,Supplier Security,Are suppliers assessed?,Supplier Assessment,Partial
+AUD-010,Internal Audit,Is audit process defined?,Audit Plan,Pass
+AUD-011,CAPA,Are findings tracked?,CAPA Register,Fail
+AUD-012,Management Review,Are results reviewed?,Management Review,Partial

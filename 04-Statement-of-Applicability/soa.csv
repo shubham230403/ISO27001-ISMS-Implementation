@@ -1,0 +1,15 @@
+﻿Control Area,Applicable,Status,Justification,Evidence
+Access Control,Yes,Implemented,Required to protect systems,Access Control Policy
+Identity Management,Yes,Partial,Required for user lifecycle,Access Review
+Authentication,Yes,Implemented,Required to protect accounts,Password Policy
+Awareness,Yes,Partial,Employees require security awareness,Training Records
+Vulnerability Management,Yes,Partial,Technical vulnerabilities must be managed,Scan Reports
+Logging and Monitoring,Yes,Partial,Security events require detection,SIEM Evidence
+Backup,Yes,Implemented,Business information requires recovery,Backup Records
+Secure Development,Yes,Partial,Applications require secure development,SDLC Procedure
+Supplier Security,Yes,Partial,Third parties create risk,Supplier Assessment
+Incident Management,Yes,Partial,Incidents require response,Incident Procedure
+Cryptography,Yes,Partial,Sensitive data requires protection,Cryptography Standard
+Change Management,Yes,Partial,Unauthorized changes create risk,Change Records
+Asset Management,Yes,Implemented,Assets must be identified,Asset Register
+Configuration Management,Yes,Partial,Secure configurations reduce risk,Configuration Baseline

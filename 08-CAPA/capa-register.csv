@@ -1,0 +1,5 @@
+﻿CAPA ID,Finding ID,Root Cause,Corrective Action,Owner,Due Date,Priority,Status,Effectiveness Review
+CAPA-001,F-001,Inconsistent access review documentation,Create quarterly access review checklist,IT Manager,2026-11-15,Medium,Open,Pending
+CAPA-002,F-002,Missing vulnerability retest workflow,Require retest evidence before closure,Application Owner,2026-11-10,High,Open,Pending
+CAPA-003,F-003,No centralized CAPA process,Create CAPA register and monthly review,ISMS Manager,2026-11-05,High,Open,Pending
+CAPA-004,F-004,Management review not completed,Schedule and document management review,ISMS Manager,2026-11-20,Medium,Open,Pending

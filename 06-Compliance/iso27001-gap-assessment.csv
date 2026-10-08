@@ -1,0 +1,8 @@
+﻿Area,Current State,Target State,Gap,Priority,Action
+Context,Scope drafted,Defined and maintained,Formal review mechanism,Medium,Annual and change-driven review
+Risk Management,Risk register created,Repeatable risk process,Formal review cadence,High,Quarterly risk review
+Access Control,Policy drafted,Operational evidence,Access review evidence incomplete,Medium,Quarterly access review
+Vulnerability Management,Process drafted,Closed-loop remediation,Retest evidence incomplete,High,Require retest before closure
+Internal Audit,Audit plan created,Periodic audits,Evidence needs expansion,Medium,Perform scheduled audit
+CAPA,CAPA register created,Effective closure,Effectiveness verification,High,Add effectiveness review
+Management Review,Framework created,Periodic documented review,Meeting evidence required,Medium,Conduct management review

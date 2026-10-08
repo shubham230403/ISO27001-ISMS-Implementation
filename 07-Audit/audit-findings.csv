@@ -1,0 +1,5 @@
+﻿Finding ID,Area,Finding,Severity,Root Cause,Corrective Action,Owner,Status
+F-001,Access Control,Access review evidence is incomplete,Medium,Process not consistently documented,Implement quarterly access review,IT Manager,Open
+F-002,Vulnerability Management,Retest evidence is incomplete,High,No standardized retest workflow,Require retest evidence before closure,Application Owner,Open
+F-003,CAPA,CAPA tracking is not fully operational,High,No centralized tracking process,Implement CAPA register and monthly review,ISMS Manager,Open
+F-004,Management Review,Management review evidence is unavailable,Medium,Review cycle not completed,Schedule and document management review,ISMS Manager,Open
