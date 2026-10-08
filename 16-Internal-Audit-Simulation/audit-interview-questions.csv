@@ -1,0 +1,16 @@
+Question ID,Audit Area,Interview Question,Expected Evidence,Related Control,Owner
+INT-001,Access Control,How are user access rights reviewed and approved?,Quarterly access review and approval records,A.5.15,IT Manager
+INT-002,Authentication,How is multi-factor authentication enforced for sensitive systems?,MFA configuration and authentication review,A.8.5,IT Manager
+INT-003,Vulnerability Management,How are vulnerabilities identified prioritized remediated and retested?,Vulnerability scan remediation and retest evidence,A.8.8,Vulnerability Manager
+INT-004,Backup & Recovery,How is backup restoration capability tested?,Backup restoration test record and results,A.8.13,IT Manager
+INT-005,Incident Management,How are security incidents identified investigated escalated and documented?,Incident investigation and response record,A.5.24,SOC Manager
+INT-006,Security Awareness,How is information security awareness maintained for employees?,Training completion records and awareness material,A.6.3,HR Manager
+INT-007,Asset Management,How does the organization maintain an inventory of information assets?,Asset register and periodic review record,A.5.9,ISMS Manager
+INT-008,Privileged Access,How are privileged accounts approved monitored and reviewed?,Privileged access approval and review records,A.5.15,IT Manager
+INT-009,Secure Development,How is application security testing performed before production release?,Security testing results and release evidence,A.8.29,Application Owner
+INT-010,Logging & Monitoring,How are security logs collected monitored and reviewed?,Centralized logging configuration and monitoring evidence,A.8.15,SOC Manager
+INT-011,CAPA,How are audit findings tracked through corrective action and closure?,CAPA register and effectiveness verification,CAPA Process,ISMS Manager
+INT-012,Management Review,How are ISMS performance results and improvement actions reviewed by management?,Management review records and action tracking,ISO 27001 Clause 9.3,Top Management
+INT-013,Risk Management,How are information security risks assessed treated and periodically reviewed?,Risk register methodology and treatment plan,ISO 27001 Clause 6.1,ISMS Manager
+INT-014,Statement of Applicability,How are applicable and non-applicable Annex A controls determined and justified?,Statement of Applicability and control register,ISO 27001 Clause 6.1.3,ISMS Manager
+INT-015,Supplier Security,How are information security requirements addressed for third-party suppliers?,Supplier security requirements and assessments,A.5.19,Procurement Manager
