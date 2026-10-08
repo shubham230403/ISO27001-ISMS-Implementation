@@ -1,0 +1,94 @@
+Control ID,Theme,Control Name,Applicable,Implementation Status,Owner,Risk Link,Evidence
+A.5.1,Organizational,Policies for information security,Yes,Implemented,ISMS Manager,R-001;R-003,Information Security Policy
+A.5.2,Organizational,Information security roles and responsibilities,Yes,Partial,ISMS Manager,R-003,ISMS Responsibility Matrix
+A.5.3,Organizational,Segregation of duties,Yes,Partial,ISMS Manager,R-001;R-006,Access Control Policy
+A.5.4,Organizational,Management responsibilities,Yes,Partial,Management,R-001;R-010,Management Review
+A.5.5,Organizational,Contact with authorities,Yes,Partial,ISMS Manager,R-010,Incident Response Procedure
+A.5.6,Organizational,Contact with special interest groups,Yes,Partial,ISMS Manager,R-010,Security Contact Register
+A.5.7,Organizational,Threat intelligence,Yes,Partial,SOC Owner,R-007;R-010,Threat Intelligence Records
+A.5.8,Organizational,Information security in project management,Yes,Partial,Project Manager,R-002;R-009,Secure Development Policy
+A.5.9,Organizational,Inventory of information and other associated assets,Yes,Implemented,Asset Owner,R-001;R-006,Asset Register
+A.5.10,Organizational,Acceptable use of information and other associated assets,Yes,Implemented,IT Manager,R-003;R-008,Acceptable Use Policy
+A.5.11,Organizational,Return of assets,Yes,Partial,HR Manager,R-003,Offboarding Records
+A.5.12,Organizational,Classification of information,Yes,Partial,Data Protection Owner,R-001;R-004,Information Classification Standard
+A.5.13,Organizational,Labelling of information,Yes,Partial,Data Protection Owner,R-001,Information Classification Standard
+A.5.14,Organizational,Information transfer,Yes,Partial,Security Owner,R-001;R-009,Information Transfer Procedure
+A.5.15,Organizational,Access control,Yes,Implemented,IT Manager,R-001;R-003;R-006,Access Control Policy
+A.5.16,Organizational,Identity management,Yes,Partial,IT Manager,R-003;R-010,Identity Management Records
+A.5.17,Organizational,Authentication information,Yes,Implemented,IT Manager,R-003;R-010,Password Policy
+A.5.18,Organizational,Access rights,Yes,Partial,IT Manager,R-001;R-003;R-006,Access Review
+A.5.19,Organizational,Information security in supplier relationships,Yes,Partial,Vendor Manager,R-004;R-005,Supplier Security Procedure
+A.5.20,Organizational,Addressing information security within supplier agreements,Yes,Partial,Vendor Manager,R-004,Security Contract Clauses
+A.5.21,Organizational,Managing information security in the ICT supply chain,Yes,Partial,Vendor Manager,R-004;R-009,Supplier Assessment
+A.5.22,Organizational,Monitoring review and change management of supplier services,Yes,Partial,Vendor Manager,R-004,Supplier Review Records
+A.5.23,Organizational,Information security for use of cloud services,Yes,Partial,Cloud Owner,R-004;R-005,Cloud Security Standard
+A.5.24,Organizational,Information security incident management planning and preparation,Yes,Partial,Incident Manager,R-007;R-010,Incident Response Policy
+A.5.25,Organizational,Assessment and decision on information security events,Yes,Partial,SOC Owner,R-007,Incident Triage Procedure
+A.5.26,Organizational,Response to information security incidents,Yes,Partial,Incident Manager,R-007;R-010,Incident Response Records
+A.5.27,Organizational,Learning from information security incidents,Yes,Partial,ISMS Manager,R-007;R-010,Lessons Learned Records
+A.5.28,Organizational,Collection of evidence,Yes,Partial,SOC Owner,R-007,Incident Evidence Records
+A.5.29,Organizational,Information security during disruption,Yes,Partial,BCP Owner,R-005,Business Continuity Plan
+A.5.30,Organizational,ICT readiness for business continuity,Yes,Partial,IT Manager,R-005,Recovery Test Records
+A.5.31,Organizational,Legal statutory regulatory and contractual requirements,Yes,Partial,Compliance Manager,R-001;R-004,Compliance Register
+A.5.32,Organizational,Intellectual property rights,Yes,Partial,Legal Owner,R-006,IP Procedure
+A.5.33,Organizational,Protection of records,Yes,Partial,Records Owner,R-001;R-007,Records Management Procedure
+A.5.34,Organizational,Privacy and protection of PII,Yes,Partial,Data Protection Owner,R-001,Privacy Controls
+A.5.35,Organizational,Independent review of information security,Yes,Implemented,Internal Auditor,R-001;R-007,Internal Audit Report
+A.5.36,Organizational,Compliance with policies rules and standards for information security,Yes,Partial,Compliance Manager,R-001;R-003,Compliance Matrix
+A.5.37,Organizational,Documented operating procedures,Yes,Implemented,ISMS Manager,R-001;R-002,Operating Procedures
+A.6.1,People,Screening,Yes,Partial,HR Manager,R-003,Screening Records
+A.6.2,People,Terms and conditions of employment,Yes,Partial,HR Manager,R-003,Employment Agreements
+A.6.3,People,Information security awareness education and training,Yes,Partial,Security Awareness Owner,R-003;R-010,Training Records
+A.6.4,People,Disciplinary process,Yes,Partial,HR Manager,R-003,Disciplinary Procedure
+A.6.5,People,Responsibilities after termination or change of employment,Yes,Partial,HR Manager,R-003,Offboarding Checklist
+A.6.6,People,Confidentiality or non-disclosure agreements,Yes,Partial,HR Manager,R-001;R-006,NDA Records
+A.6.7,People,Remote working,Yes,Partial,IT Manager,R-008,Remote Working Policy
+A.6.8,People,Information security event reporting,Yes,Implemented,Security Owner,R-007;R-010,Incident Reporting Procedure
+A.7.1,Physical,Physical security perimeters,Yes,Partial,Facilities Manager,R-008,Physical Security Procedure
+A.7.2,Physical,Physical entry,Yes,Partial,Facilities Manager,R-008,Access Records
+A.7.3,Physical,Securing offices rooms and facilities,Yes,Partial,Facilities Manager,R-008,Physical Security Records
+A.7.4,Physical,Physical security monitoring,Yes,Partial,Facilities Manager,R-008,CCTV and Monitoring Records
+A.7.5,Physical,Protecting against physical and environmental threats,Yes,Partial,Facilities Manager,R-008,Environmental Controls
+A.7.6,Physical,Working in secure areas,Yes,Partial,Facilities Manager,R-008,Secure Area Procedure
+A.7.7,Physical,Clear desk and clear screen,Yes,Partial,IT Manager,R-001;R-008,Clear Desk Policy
+A.7.8,Physical,Equipment siting and protection,Yes,Partial,IT Manager,R-008,Equipment Protection Records
+A.7.9,Physical,Security of assets off-premises,Yes,Partial,IT Manager,R-008,Asset Protection Procedure
+A.7.10,Physical,Storage media,Yes,Partial,IT Manager,R-001,Media Handling Procedure
+A.7.11,Physical,Supporting utilities,Yes,Partial,Facilities Manager,R-005,Utility Continuity Records
+A.7.12,Physical,Cabling security,Yes,Partial,Facilities Manager,R-008,Infrastructure Security Records
+A.7.13,Physical,Equipment maintenance,Yes,Partial,IT Manager,R-008,Maintenance Records
+A.7.14,Physical,Secure disposal or re-use of equipment,Yes,Partial,IT Manager,R-001,Asset Disposal Records
+A.8.1,Technological,User endpoint devices,Yes,Partial,IT Manager,R-008,Endpoint Security Records
+A.8.2,Technological,Privileged access rights,Yes,Partial,IT Manager,R-001;R-003,Privileged Access Review
+A.8.3,Technological,Information access restriction,Yes,Implemented,IT Manager,R-001;R-006,Access Control Policy
+A.8.4,Technological,Access to source code,Yes,Partial,Engineering Manager,R-006,Repository Access Review
+A.8.5,Technological,Secure authentication,Yes,Implemented,IT Manager,R-003;R-010,Authentication Controls
+A.8.6,Technological,Capacity management,Yes,Partial,IT Manager,R-005,Capacity Monitoring
+A.8.7,Technological,Protection against malware,Yes,Partial,IT Manager,R-008,Endpoint Protection
+A.8.8,Technological,Management of technical vulnerabilities,Yes,Partial,Security Owner,R-002;R-009,Vulnerability Management Process
+A.8.9,Technological,Configuration management,Yes,Partial,Cloud Owner,R-004;R-008,Configuration Baseline
+A.8.10,Technological,Information deletion,Yes,Partial,Data Protection Owner,R-001,Data Retention Procedure
+A.8.11,Technological,Data masking,Yes,Partial,Application Owner,R-001,Data Protection Controls
+A.8.12,Technological,Data leakage prevention,Yes,Partial,Security Owner,R-001,DLP Controls
+A.8.13,Technological,Information backup,Yes,Implemented,IT Manager,R-005,Backup Policy
+A.8.14,Technological,Redundancy of information processing facilities,Yes,Partial,Cloud Owner,R-005,Availability Architecture
+A.8.15,Technological,Logging,Yes,Partial,SOC Owner,R-007,Logging and Monitoring
+A.8.16,Technological,Monitoring activities,Yes,Partial,SOC Owner,R-007,SIEM Monitoring
+A.8.17,Technological,Clock synchronization,Yes,Partial,IT Manager,R-007,Time Synchronization Configuration
+A.8.18,Technological,Use of privileged utility programs,Yes,Partial,IT Manager,R-001;R-003,Privileged Utility Review
+A.8.19,Technological,Installation of software on operational systems,Yes,Partial,IT Manager,R-008,Software Installation Procedure
+A.8.20,Technological,Networks security,Yes,Implemented,Network Owner,R-009,Network Security Controls
+A.8.21,Technological,Security of network services,Yes,Partial,Network Owner,R-009,Network Security Standard
+A.8.22,Technological,Segregation of networks,Yes,Partial,Network Owner,R-009,Network Segmentation
+A.8.23,Technological,Web filtering,Yes,Partial,IT Manager,R-008,Web Filtering Controls
+A.8.24,Technological,Use of cryptography,Yes,Partial,Security Owner,R-001;R-009,Cryptography Standard
+A.8.25,Technological,Secure development life cycle,Yes,Partial,Engineering Manager,R-002;R-009,Secure Development Policy
+A.8.26,Technological,Application security requirements,Yes,Partial,Application Owner,R-002;R-009,Application Security Requirements
+A.8.27,Technological,Secure system architecture and engineering principles,Yes,Partial,Engineering Manager,R-002;R-009,Secure Architecture Standard
+A.8.28,Technological,Secure coding,Yes,Partial,Engineering Manager,R-002,Secure Coding Standard
+A.8.29,Technological,Security testing in development and acceptance,Yes,Partial,Application Owner,R-002;R-009,Security Test Reports
+A.8.30,Technological,Outsourced development,Yes,Partial,Engineering Manager,R-006,Supplier Development Assessment
+A.8.31,Technological,Separation of development test and production environments,Yes,Partial,Engineering Manager,R-002,Environment Segregation
+A.8.32,Technological,Change management,Yes,Partial,Change Manager,R-002;R-004,Change Management Records
+A.8.33,Technological,Test information,Yes,Partial,Application Owner,R-001,Test Data Procedure
+A.8.34,Technological,Protection of information systems during audit testing,Yes,Partial,Security Owner,R-001;R-002,Audit Testing Procedure

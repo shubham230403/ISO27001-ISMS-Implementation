@@ -1,0 +1,22 @@
+Control ID,Evidence Type,Evidence Location,Frequency,Owner,Status
+A.5.1,Policy,02-Policies/information-security-policy.md,Annual,ISMS Manager,Available
+A.5.9,Register,03-Risk-Management/asset-register.csv,Quarterly,Asset Owner,Available
+A.5.15,Policy,02-Policies/access-control-policy.md,Annual,IT Manager,Available
+A.5.17,Policy,02-Policies/password-policy.md,Annual,IT Manager,Available
+A.5.18,Review,Access Review Records,Quarterly,IT Manager,Planned
+A.5.24,Procedure,02-Policies/incident-response-policy.md,Annual,Incident Manager,Available
+A.5.26,Records,Incident Records,Per Incident,Incident Manager,Planned
+A.5.31,Register,Compliance Register,Quarterly,Compliance Manager,Planned
+A.5.35,Report,07-Audit/audit-report.md,Annual,Internal Auditor,Available
+A.6.3,Records,Security Awareness Records,Annual,Security Awareness Owner,Planned
+A.6.8,Procedure,Incident Reporting Procedure,Continuous,Security Owner,Available
+A.7.7,Policy,Clear Desk Policy,Annual,IT Manager,Planned
+A.8.1,Records,Endpoint Security Records,Continuous,IT Manager,Planned
+A.8.8,Process,05-Control-Implementation/vulnerability-management.md,Monthly,Security Owner,Available
+A.8.13,Policy,05-Control-Implementation/backup-recovery.md,Daily,IT Manager,Available
+A.8.15,Process,05-Control-Implementation/logging-monitoring.md,Continuous,SOC Owner,Available
+A.8.20,Standard,Network Security Standard,Annual,Network Owner,Planned
+A.8.24,Standard,05-Control-Implementation/cryptography.md,Annual,Security Owner,Available
+A.8.25,Policy,05-Control-Implementation/secure-development.md,Per Release,Engineering Manager,Available
+A.8.29,Report,Security Test Reports,Per Release,Application Owner,Planned
+A.8.32,Records,Change Management Records,Per Change,Change Manager,Planned
