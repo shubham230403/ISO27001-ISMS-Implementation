@@ -1,0 +1,14 @@
+Metric,Value,Target,Status,Source
+Total ISMS Risks,10,10,On Track,03-Risk-Management/risk-register.csv
+Critical Inherent Risks,4,0,Attention Required,11-Risk-Dashboard/residual-risk-register.csv
+High Inherent Risks,6,0,Attention Required,11-Risk-Dashboard/residual-risk-register.csv
+Critical Residual Risks,0,0,On Track,11-Risk-Dashboard/residual-risk-register.csv
+High Residual Risks,0,0,On Track,11-Risk-Dashboard/residual-risk-register.csv
+Medium Residual Risks,10,Monitor,On Track,11-Risk-Dashboard/residual-risk-register.csv
+Annex A Controls,93,93,On Track,10-Annex-A-Controls/annex-a-control-register.csv
+Annex A Implemented Controls,24,93,Increase Coverage,10-Annex-A-Controls/annex-a-control-register.csv
+Annex A Partial Controls,69,0,Improvement Required,10-Annex-A-Controls/annex-a-control-register.csv
+Internal Audit Findings,4,0,Attention Required,07-Audit/audit-findings.csv
+High Audit Findings,2,0,Attention Required,07-Audit/audit-findings.csv
+CAPA Actions,4,4,On Track,08-CAPA/capa-register.csv
+Management Review,1,1,On Track,09-Management-Review/management-review.md
