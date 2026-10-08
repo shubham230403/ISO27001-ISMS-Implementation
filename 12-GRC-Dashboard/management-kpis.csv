@@ -1,11 +1,11 @@
-KPI ID,KPI,Current Value,Target,Frequency,Owner
-KPI-001,Critical Residual Risks,0,0,Monthly,ISMS Manager
-KPI-002,High Residual Risks,0,0,Monthly,ISMS Manager
-KPI-003,Access Reviews Completed,100%,100%,Quarterly,IT Manager
-KPI-004,High Vulnerabilities Retested,100%,100%,Monthly,Vulnerability Manager
-KPI-005,CAPA Actions On Time,95%,95%,Monthly,ISMS Manager
-KPI-006,Audit Findings Closed,0%,100%,Quarterly,Internal Audit
-KPI-007,Security Incidents Reviewed,100%,100%,Monthly,SOC Manager
-KPI-008,Risk Review Completion,100%,95%,Quarterly,ISMS Manager
-KPI-009,Security Awareness Completion,100%,100%,Annual,HR Manager
-KPI-010,Management Reviews Completed,100%,100%,Annual,Top Management
+KPI,Current Value,Target,Frequency,Owner,Status
+Critical Residual Risks,0,0,Monthly,ISMS Manager,On Track
+High Residual Risks,0,0,Monthly,ISMS Manager,On Track
+Access Reviews Completed,100%,100%,Quarterly,IT Manager,On Track
+High Vulnerabilities Retested,100%,100%,Monthly,Vulnerability Manager,On Track
+CAPA Actions On Time,100%,95%,Monthly,ISMS Manager,On Track
+Audit Findings Closed,100%,100%,Quarterly,Internal Auditor,On Track
+Security Incidents Reviewed,100%,100%,Monthly,SOC Manager,On Track
+Risk Review Completion,100%,95%,Quarterly,ISMS Manager,On Track
+Security Awareness Completion,100%,100%,Annual,HR Manager,On Track
+Management Reviews Completed,100%,100%,Annual,Top Management,On Track

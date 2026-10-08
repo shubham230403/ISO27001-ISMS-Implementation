@@ -1,5 +1,5 @@
-﻿CAPA ID,Finding ID,Root Cause,Corrective Action,Owner,Due Date,Priority,Status,Effectiveness Review
-CAPA-001,F-001,Inconsistent access review documentation,Create quarterly access review checklist,IT Manager,2026-11-15,Medium,Open,Pending
-CAPA-002,F-002,Missing vulnerability retest workflow,Require retest evidence before closure,Application Owner,2026-11-10,High,Open,Pending
-CAPA-003,F-003,No centralized CAPA process,Create CAPA register and monthly review,ISMS Manager,2026-11-05,High,Open,Pending
-CAPA-004,F-004,Management review not completed,Schedule and document management review,ISMS Manager,2026-11-20,Medium,Open,Pending
+﻿CAPA ID,Finding ID,Root Cause,Corrective Action,Owner,Status,Completion Date,Closure Evidence,Effectiveness Result,Closure Date,Verified By
+CAPA-001,F-001,Inconsistent access review documentation,Create quarterly access review checklist and centralized evidence retention,IT Manager,Closed,2026-10-08,EVD-001,Effective,2026-10-08,Internal Auditor
+CAPA-002,F-002,Missing vulnerability retest workflow,Require retest evidence before vulnerability closure,Application Owner,Closed,2026-10-08,EVD-003,Effective,2026-10-08,Internal Auditor
+CAPA-003,F-003,No centralized CAPA process,Create CAPA register and monthly effectiveness review,ISMS Manager,Closed,2026-10-08,15-CAPA-Closure/capa-effectiveness-review.md,Effective,2026-10-08,Internal Auditor
+CAPA-004,F-004,Management review not completed,Schedule and document management review with decisions and action tracking,ISMS Manager,Closed,2026-10-08,09-Management-Review/management-review.md,Effective,2026-10-08,Internal Auditor

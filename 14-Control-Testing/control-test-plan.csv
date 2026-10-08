@@ -1,0 +1,11 @@
+Test ID,Control ID,Control Name,Test Objective,Test Procedure,Evidence Reference,Frequency,Tester
+TST-001,A.5.15,Access Control,Verify access rights are periodically reviewed,Review quarterly access review and verify exceptions were remediated,EVD-001,Quarterly,Internal Auditor
+TST-002,A.8.5,Secure Authentication,Verify authentication controls are appropriately implemented,Verify MFA password policy lockout session timeout and authentication logging,EVD-002,Quarterly,Internal Auditor
+TST-003,A.8.8,Management of Technical Vulnerabilities,Verify vulnerabilities are remediated and retested,Review vulnerability remediation and confirm post-remediation testing,EVD-003,Monthly,Internal Auditor
+TST-004,A.8.13,Information Backup,Verify backups can be restored successfully,Review backup restoration test results and recovery evidence,EVD-004,Quarterly,Internal Auditor
+TST-005,A.5.24,Incident Management Planning and Preparation,Verify security incidents are detected investigated and documented,Review simulated incident record and response actions,EVD-005,As Required,Internal Auditor
+TST-006,A.6.3,Information Security Awareness Education and Training,Verify personnel complete security awareness training,Review training completion records and coverage,EVD-006,Annual,Internal Auditor
+TST-007,A.5.9,Inventory of Information and Other Associated Assets,Verify assets are identified and maintained,Review asset register and ownership information,EVD-007,Quarterly,Internal Auditor
+TST-008,A.5.15,Access Control,Verify privileged access is authorized and appropriate,Review privileged access approvals and permissions,EVD-008,As Required,Internal Auditor
+TST-009,A.8.29,Security Testing in Development and Acceptance,Verify applications undergo security testing before release,Review application security testing records,EVD-009,Per Release,Internal Auditor
+TST-010,A.8.15,Logging,Verify security-relevant events are logged and monitored,Review centralized logging configuration and monitoring evidence,EVD-010,Monthly,Internal Auditor

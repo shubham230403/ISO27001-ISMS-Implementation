@@ -6,9 +6,10 @@ Critical Residual Risks,0,0,On Track,11-Risk-Dashboard/residual-risk-register.cs
 High Residual Risks,0,0,On Track,11-Risk-Dashboard/residual-risk-register.csv
 Medium Residual Risks,10,Monitor,On Track,11-Risk-Dashboard/residual-risk-register.csv
 Annex A Controls,93,93,On Track,10-Annex-A-Controls/annex-a-control-register.csv
-Annex A Implemented Controls,24,93,Increase Coverage,10-Annex-A-Controls/annex-a-control-register.csv
-Annex A Partial Controls,69,0,Improvement Required,10-Annex-A-Controls/annex-a-control-register.csv
-Internal Audit Findings,4,0,Attention Required,07-Audit/audit-findings.csv
-High Audit Findings,2,0,Attention Required,07-Audit/audit-findings.csv
-CAPA Actions,4,4,On Track,08-CAPA/capa-register.csv
-Management Review,1,1,On Track,09-Management-Review/management-review.md
+Annex A Implemented Controls,12,93,Increase Coverage,10-Annex-A-Controls/annex-a-control-register.csv
+Annex A Partial Controls,81,0,Improvement Required,10-Annex-A-Controls/annex-a-control-register.csv
+Total Historical Audit Findings,4,Track,Informational,07-Audit/audit-findings.csv
+Open Audit Findings,0,0,On Track,07-Audit/audit-findings.csv
+Closed Audit Findings,4,4,On Track,07-Audit/audit-findings.csv
+CAPA Actions Closed,4,4,On Track,08-CAPA/capa-register.csv
+Management Review Completed,1,1,On Track,09-Management-Review/management-review.md

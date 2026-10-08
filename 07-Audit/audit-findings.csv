@@ -1,5 +1,5 @@
-﻿Finding ID,Area,Finding,Severity,Root Cause,Corrective Action,Owner,Status
-F-001,Access Control,Access review evidence is incomplete,Medium,Process not consistently documented,Implement quarterly access review,IT Manager,Open
-F-002,Vulnerability Management,Retest evidence is incomplete,High,No standardized retest workflow,Require retest evidence before closure,Application Owner,Open
-F-003,CAPA,CAPA tracking is not fully operational,High,No centralized tracking process,Implement CAPA register and monthly review,ISMS Manager,Open
-F-004,Management Review,Management review evidence is unavailable,Medium,Review cycle not completed,Schedule and document management review,ISMS Manager,Open
+﻿Finding ID,Area,Finding,Severity,Root Cause,Corrective Action,Owner,Status,Closure Evidence,Effectiveness Result,Closure Date,Verified By
+F-001,Access Control,Access review evidence is incomplete,Medium,Process not consistently documented,Implement quarterly access review and centralized evidence retention,IT Manager,Closed,EVD-001,Effective,2026-10-08,Internal Auditor
+F-002,Vulnerability Management,Retest evidence is incomplete,High,No standardized retest workflow,Require retest evidence before closure,Application Owner,Closed,EVD-003,Effective,2026-10-08,Internal Auditor
+F-003,CAPA,CAPA tracking is not fully operational,High,No centralized tracking process,Implement CAPA register and monthly effectiveness review,ISMS Manager,Closed,15-CAPA-Closure/capa-effectiveness-review.md,Effective,2026-10-08,Internal Auditor
+F-004,Management Review,Management review evidence is unavailable,Medium,Review cycle not completed,Schedule and document management review with decisions and action tracking,ISMS Manager,Closed,09-Management-Review/management-review.md,Effective,2026-10-08,Internal Auditor

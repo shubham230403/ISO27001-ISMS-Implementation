@@ -1,0 +1,11 @@
+Evidence ID,Control/Requirement,Evidence Description,Evidence Type,Source/Location,Frequency,Owner,Status,Related Risk,Audit Use
+EVD-001,A.5.15 Access Control,Quarterly user access review record,Access Review,13-Evidence-Repository/access-review-evidence.md,Quarterly,IT Manager,Available,R-003,Control effectiveness
+EVD-002,A.8.5 Secure Authentication,Authentication and MFA configuration verification,Configuration Review,13-Evidence-Repository/authentication-evidence.md,Quarterly,IT Manager,Available,R-003;R-010,Control effectiveness
+EVD-003,A.8.8 Management of Technical Vulnerabilities,Vulnerability scan and remediation retest record,Vulnerability Report,13-Evidence-Repository/vulnerability-retest-evidence.md,Monthly,Vulnerability Manager,Available,R-002;R-009,Audit verification
+EVD-004,A.8.13 Information Backup,Backup restoration test results,Backup Test,13-Evidence-Repository/backup-test-evidence.md,Quarterly,IT Manager,Available,R-005,Availability verification
+EVD-005,A.5.24 Incident Management Planning and Preparation,Security incident investigation record,Incident Record,13-Evidence-Repository/incident-evidence.md,As Required,SOC Manager,Available,R-007;R-010,Incident response verification
+EVD-006,A.6.3 Information Security Awareness,Security awareness training completion record,Training Record,13-Evidence-Repository/security-awareness-evidence.md,Annual,HR Manager,Available,R-008,Awareness verification
+EVD-007,A.5.9 Inventory of Information and Other Associated Assets,Asset register review record,Asset Register,03-Risk-Management/asset-register.csv,Quarterly,ISMS Manager,Available,R-001;R-006,Asset management verification
+EVD-008,A.5.15 Access Control,Privileged access approval record,Access Approval,05-Control-Implementation/access-control.md,As Required,IT Manager,Available,R-001;R-006,Access governance
+EVD-009,A.8.29 Security Testing in Development and Acceptance,Application security testing results,Security Test Report,05-Control-Implementation/secure-development.md,Per Release,Application Owner,Available,R-002;R-009,SDLC verification
+EVD-010,A.8.15 Logging,Centralized security logging configuration evidence,Configuration Evidence,05-Control-Implementation/logging-monitoring.md,Monthly,SOC Manager,Available,R-007,Monitoring verification
